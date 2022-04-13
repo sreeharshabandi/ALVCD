@@ -1,4 +1,4 @@
-# alvcd
+# ALVCD
 Automatic License verification and Convict detection.
 The conventional or the traditional way of collecting the toll from the vehicle owners or the drivers is to stop the car by the toll gate stations and then pay the amount to the toll collector in the toll booth, after which the gate is opened either mechanically or electronically for the driver to get through the toll station. 
 This process takes a lot of time and no security authentication (i.e., Driving license verification) takes place. Due to the lack of License verification, many convicts, illegal license holder’s escapes. 
